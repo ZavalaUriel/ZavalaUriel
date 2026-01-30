@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ZavalaUriel/ZavalaUriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=slice&color=3178C6&height=150&section=header" />
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Security+Focused;Linux+Enthusiast;NestJS+|+TypeScript" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nestjs,ts,angular,react,nodejs,docker,aws,nginx,linux,postgres,mongodb&perline=6" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=80&section=footer" />
+
+</div>
