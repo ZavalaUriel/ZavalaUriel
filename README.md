@@ -13,3 +13,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=3178C6&height=80&section=footer" />
 
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" />
+</div>
