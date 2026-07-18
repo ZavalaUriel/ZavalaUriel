@@ -45,6 +45,10 @@
 
 <br><br>
 
+<img src="https://streak-stats.demolab.com/?user=ZavalaUriel&hide_border=true&background=00000000&stroke=3178C6&ring=3178C6&fire=0ea5e9&currStreakLabel=3178C6&sideLabels=808080&dates=808080&sideNums=3178C6&currStreakNum=3178C6&titleColor=3178C6" height="180" />
+
+<br><br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZavalaUriel&bg_color=00000000&color=3178C6&line=3178C6&point=0ea5e9&area=true&area_color=3178C6&hide_border=true" width="90%" />
 
 <br><br>
