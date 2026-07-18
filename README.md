@@ -6,7 +6,7 @@
 
 <a href="mailto:zavalauriel508@gmail.com"><img src="https://img.shields.io/badge/-Email-3178C6?style=flat&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ZavalaUriel"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ZavalaUriel"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/zavala-zavala-josé-luis-uriel-undefined-111a90380"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
