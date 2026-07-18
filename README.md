@@ -5,8 +5,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=3178C6&center=true&vCenter=true&width=420&height=40&lines=Backend+Developer;Security+%26+Linux;NestJS+%C2%B7+TypeScript" alt="typing" />
 
 <a href="mailto:zavalauriel508@gmail.com"><img src="https://img.shields.io/badge/-Email-3178C6?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/ZavalaUriel"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ZavalaUriel"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
@@ -40,7 +40,19 @@
 
 ### GitHub
 
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=transparent&icon_color=3178C6&text_color=808080" />
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&hide_title=true&langs_count=6&theme=transparent&text_color=808080&title_color=3178C6" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZavalaUriel&theme=github_dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZavalaUriel&theme=github_dark" height="180" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZavalaUriel&bg_color=00000000&color=3178C6&line=3178C6&point=0ea5e9&area=true&area_color=3178C6&hide_border=true" width="90%" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZavalaUriel/ZavalaUriel/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZavalaUriel/ZavalaUriel/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ZavalaUriel/ZavalaUriel/output/github-contribution-grid-snake.svg" width="90%" />
+</picture>
 
 </div>
